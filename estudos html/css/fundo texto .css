@@ -1,0 +1,11 @@
+.div3{
+ background-color: rgb(24, 24, 24);
+ border-radius: 10px;
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+ width: 33.333%;
+ height: 40px;
+ text-align: center;
+}
+
